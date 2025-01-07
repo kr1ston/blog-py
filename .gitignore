@@ -1,0 +1,9 @@
+.env.dev
+.env.prod
+
+.cache/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
