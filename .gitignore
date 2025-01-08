@@ -1,9 +1,13 @@
+# 后端
 .env.dev
 .env.prod
 
-.cache/
-
-# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
+
+# 前端
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
